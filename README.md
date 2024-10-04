@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **vinted app**
 
 - 🌱 I’m currently learning **js, express, mongoDB**
+  
+- 👯 i'm finish the Reacteur: https://www.lereacteur.io/  
 
 - 💬 Ask me about **js, react, express, mongoDB, sveltekit, pocketbase, css, sass**
 
