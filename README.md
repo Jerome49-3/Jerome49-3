@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jerome Bobin</h1>
 <h3 align="center">A passionate student developer from France</h3>
 
-- 🔭 I’m currently working on **vinted app**
+- 🔭 I’m currently working on job research
 
 - 🌱 I’m currently learning **js, express, mongoDB**
   
