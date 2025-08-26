@@ -8,7 +8,7 @@
   
 - 📫 How to reach me **jeromebobin49.3@gmail.com**
 
-	- 💻 FullStack: https://vintaid.netlify.app , https://marv3lous.netlify.app (css still underconstruction),
+	- 💻 FullStack: https://vintaid.netlify.app , https://marv3lous.netlify.app (css still underconstruction), https://gamepod.netlify.app .
 	  
 	- 💻 FrontEnd: https://delivfood.netlify.app, https://jerome49-3.github.io/TripAdvisaure,
 	  
