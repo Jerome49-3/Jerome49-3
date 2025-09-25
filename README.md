@@ -8,11 +8,11 @@
   
 - 📫 How to reach me **jeromebobin49.3@gmail.com**
 
-	- 💻 FullStack: https://vintaid.netlify.app , https://marv3lous.netlify.app (css still underconstruction), https://gamepod.netlify.app .
+	- 💻 FullStack: https://vintaid.netlify.app, https://marv3lous.netlify.app (css still underconstruction), https://gamepod.netlify.app.
 	  
 	- 💻 FrontEnd: https://delivfood.netlify.app, https://jerome49-3.github.io/TripAdvisaure,
 	  
-	- 🛠 FrontEnd: https://netfalch.netlify.app, https://countersarray.netlify.app, https://choicemovies.netlify.app, https://jerome49-3.github.io/MyFirstPortfolio, https://jerome49-3.github.io/marmiton/
+	- 🛠 FrontEnd: https://netfalch.netlify.app, https://countersarray.netlify.app, https://choicemovies.netlify.app, https://jerome49-3.github.io/MyFirstPortfolio, https://jerome49-3.github.io/marmiton/, https://jerome49-3.github.io/ohmyfood-step3/
   
 - ⚡ Fun fact **I only think I'm funny after I've had my coffee ^_^**
 
